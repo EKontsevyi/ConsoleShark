@@ -1,0 +1,8 @@
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\bin\Debug\ConsoleShark.exe.config
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\bin\Debug\ConsoleShark.exe
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\bin\Debug\ConsoleShark.pdb
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\obj\Debug\ConsoleShark.csproj.AssemblyReference.cache
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\obj\Debug\ConsoleShark.csproj.SuggestedBindingRedirects.cache
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\obj\Debug\ConsoleShark.csproj.CoreCompileInputs.cache
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\obj\Debug\ConsoleShark.exe
+C:\Users\flexi\source\repos\ConsoleShark\ConsoleShark\obj\Debug\ConsoleShark.pdb
