@@ -78,7 +78,7 @@ namespace ConsoleShark
                     ukrain++;
                     if(ukrain == 5)
                     {
-                    MessageBox.Show("You open Ukrain Level!!!");
+                    MessageBox.Show("Ты открыл уровень УКРАИНА!!!");
                     level = 0;
                     NewLevel(level, ref map, ref sharkX, ref sharkY, ref score, ref sharkBody);
 
